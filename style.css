@@ -1,0 +1,49 @@
+
+.titulo {
+    color: white;
+    text-align: center;
+}
+
+
+.card2 {
+    background-color: rgb(206, 206, 218);
+    margin: 50px;
+    padding: 50px;
+    border-radius: 15px;
+    justify-content: center;
+    text-align: center;
+    font-family: "Poppins";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.card {
+    background-color: rgb(206, 206, 218);
+    margin: 50px;
+    padding: 50px;
+    border-radius: 15px;
+    justify-content: center;
+    text-align: center;
+    font-family: "Poppins";
+}
+
+.horario {
+    border: solid 1px;
+    margin: 2px;
+    border-radius: 5px;
+    background-color: white;
+
+}
+
+body {
+    background-color: black;
+} 
